@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Lucas/Documents/NetBeansProjects/Parcial%20Gestion%20Personajes/src/com/grupo/personaje/TipoPersonaje.java</file>
+            <file>file:/C:/Users/Lucas/Documents/NetBeansProjects/Parcial%20Gestion%20Personajes/src/com/grupo/interfaces/FiltroPersonaje.java</file>
+            <file>file:/C:/Users/Lucas/Documents/NetBeansProjects/Parcial%20Gestion%20Personajes/src/com/grupo/controlador/Controller.java</file>
+            <file>file:/C:/Users/Lucas/Documents/NetBeansProjects/Parcial%20Gestion%20Personajes/src/com/grupo/personaje/Mago.java</file>
+            <file>file:/C:/Users/Lucas/Documents/NetBeansProjects/Parcial%20Gestion%20Personajes/src/com/grupo/controlador/MainApp.java</file>
+            <file>file:/C:/Users/Lucas/Documents/NetBeansProjects/Parcial%20Gestion%20Personajes/src/com/grupo/excepciones/PersonajeNoEncontradoException.java</file>
+            <file>file:/C:/Users/Lucas/Documents/NetBeansProjects/Parcial%20Gestion%20Personajes/src/com/grupo/personaje/Arquero.java</file>
+            <file>file:/C:/Users/Lucas/Documents/NetBeansProjects/Parcial%20Gestion%20Personajes/src/com/grupo/personaje/Guerrero.java</file>
+            <file>file:/C:/Users/Lucas/Documents/NetBeansProjects/Parcial%20Gestion%20Personajes/src/com/grupo/gestor/Grupo.java</file>
+            <file>file:/C:/Users/Lucas/Documents/NetBeansProjects/Parcial%20Gestion%20Personajes/src/com/grupo/personaje/Personaje.java</file>
+        </group>
+    </open-files>
+</project-private>

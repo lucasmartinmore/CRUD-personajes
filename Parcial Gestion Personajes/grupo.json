@@ -1,0 +1,23 @@
+[
+  {
+    "presicion": 100,
+    "nombre": "Wind Archer",
+    "tipo": "ARQUERO",
+    "nivel": 98,
+    "puntosDeVida": 32
+  },
+  {
+    "fuerza": 99,
+    "nombre": "WarriorBlue",
+    "tipo": "GUERRERO",
+    "nivel": 50,
+    "puntosDeVida": 54
+  },
+  {
+    "mana": 75,
+    "nombre": "Blaze Wizard",
+    "tipo": "MAGO",
+    "nivel": 100,
+    "puntosDeVida": 100
+  }
+]

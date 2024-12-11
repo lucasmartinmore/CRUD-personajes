@@ -1,0 +1,3 @@
+Personaje{nombre='Wind Archer', nivel=98, puntosDeVida=32, tipo=ARQUERO}
+Personaje{nombre='WarriorBlue', nivel=50, puntosDeVida=54, tipo=GUERRERO}
+Personaje{nombre='Blaze Wizard', nivel=100, puntosDeVida=100, tipo=MAGO}
